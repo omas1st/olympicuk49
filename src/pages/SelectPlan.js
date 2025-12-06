@@ -4,15 +4,15 @@ import { useNavigate } from 'react-router-dom';
 import './SelectPlan.css';
 
 const plans = [
-  '3numbers+bonus(Lunch only)-R500',
-  '3numbers+bonus(Teatime only)-R500',
-  '3numbers+bonus(Lunch only)-R1200',
-  '3numbers+bonus(Teatime only)-R1200',
-  '3numbers+bonus(Lunch only)-R3000',
-  '3numbers+bonus(Teatime only)-R3000',
+  '3numbers+bonus(Lunch only)-R700',
+  '3numbers+bonus(Teatime only)-R700',
+  '3numbers+bonus(Lunch only)-R2000',
+  '3numbers+bonus(Teatime only)-R2000',
+  '3numbers+bonus(Lunch only)-R4500',
+  '3numbers+bonus(Teatime only)-R4500',
   'VIP-LUNCH&TEATIME MONTHLY-R24000',
-  'Four numbers(Russian Goslotto)-R500',
-  'Four numbers+bonus(Powerball)-R700'
+  'Four numbers(Russian Goslotto)-R700',
+  'Four numbers+bonus(Powerball)-R1000'
 ];
 
 export default function SelectPlan() {
