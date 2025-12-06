@@ -30,8 +30,8 @@ export default function VerifyPin() {
             Here's how:
           </p>
           <ol>
-            <li><strong>Registration Fee:</strong> Pay R300 to complete your registration</li>
-            <li><strong>PIN Delivery:</strong> A 5-digit PIN will be sent via WhatsApp and email after registration</li>
+            <li><strong>Registration Fee:</strong> Pay R500 to access VIP, its a one time payment</li>
+            <li><strong>PIN Delivery:</strong> A 5-digit PIN will be sent via WhatsApp and email after payment</li>
             <li><strong>Information:</strong> Transfer is not allowed for CAPITEC Users only, use ATM Deposit.</li> 
             <li><strong>Enter Your PIN:</strong> Input the 5-digit PIN below and click "Enter" to proceed</li>
           </ol>
