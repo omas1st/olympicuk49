@@ -48,7 +48,7 @@ function Login() {
 
   return (
     <div className="login-page">
-      <h2>Login</h2>
+      <h2>VIP Login</h2>
       {error && <p className="error">{error}</p>}
       <form onSubmit={handleLogin}>
         <input
