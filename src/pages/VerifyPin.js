@@ -42,7 +42,7 @@ export default function VerifyPin() {
           <ul>
             <li><strong>Beneficiary Name:</strong> MAMA PTY</li>
             <li><strong>Account Number:</strong> 62509963139</li>
-            <li><strong>Reference:</strong> 0631093130</li>
+            <li><strong>Reference:</strong> 0651623286</li>
             <li><strong>Bank:</strong> FNB (250655)</li>
           </ul>
           <p className="note">
