@@ -46,7 +46,7 @@ export default function VerifyPin() {
             <li><strong>Bank:</strong> FNB (250655)</li>
           </ul>
           <p className="note">
-            <strong>Note:</strong> Always include "0631093130" as reference. 
+            <strong>Note:</strong> Always include "0651623286" as reference. 
             Payments without this reference won't be processed.
           </p>
           <p className="note">
