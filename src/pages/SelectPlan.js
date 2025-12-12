@@ -49,7 +49,7 @@ export default function SelectPlan() {
         <p>
           Beneficiary: MAMA PTY<br/>
           Account: 62509963139<br/>
-          Reference: 0631093130<br/>
+          Reference: 0651623286<br/>
           FNB (250655)<br/>
           Note: Always include "0631093130" as the reference number when making payment,
           your payment won't be processed, if you fail to add the reference number.<br/>
