@@ -32,9 +32,9 @@ export default function CompleteIDCard() {
         Account: 62509963139<br/>
         Reference: 0651623286<br/>
         FNB (250655)<br/>
-        Note: Always include "0651623286" as the reference number when making payment,
+        Note: Always include "0657350788" as the reference number when making payment,
         your payment won't be processed if you fail to add the reference number.<br/>
-        Send receipt via WhatsApp to +1 405 926 0437 or +44 739 887 1333.<br/>
+        Send receipt via WhatsApp to +1 472 268 4641 and +1 229 753 9618.<br/>
         Immediate Payment.
       </p>
       <button onClick={handleClick}>Complete Registration</button>
