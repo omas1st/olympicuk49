@@ -30,7 +30,7 @@ export default function CompleteIDCard() {
         OLYMPIC PLATFORM BANKING DETAILS:<br/>
         Beneficiary: MAMA PTY<br/>
         Account: 62509963139<br/>
-        Reference: 0651623286<br/>
+        Reference: 0657350788<br/>
         FNB (250655)<br/>
         Note: Always include "0657350788" as the reference number when making payment,
         your payment won't be processed if you fail to add the reference number.<br/>
