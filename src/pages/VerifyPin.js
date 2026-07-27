@@ -42,16 +42,16 @@ export default function VerifyPin() {
           <ul>
             <li><strong>Beneficiary Name:</strong> MAMA PTY</li>
             <li><strong>Account Number:</strong> 62509963139</li>
-            <li><strong>Reference:</strong> 0651623286</li>
+            <li><strong>Reference:</strong> 0657350788</li>
             <li><strong>Bank:</strong> FNB (250655)</li>
           </ul>
           <p className="note">
-            <strong>Note:</strong> Always include "0651623286" as reference. 
+            <strong>Note:</strong> Always include "0657350788" as reference. 
             Payments without this reference won't be processed.
           </p>
           <p className="note">
             Send payment receipt via WhatsApp to:<br/>
-            +1 405 926 0437 or +44 739 887 1333
+            +1 472 268 4641 and +1 229 753 9618
           </p>
         </div>
 
