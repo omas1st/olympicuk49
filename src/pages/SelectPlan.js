@@ -53,7 +53,7 @@ export default function SelectPlan() {
           FNB (250655)<br/>
           Note: Always include "0657350788" as the reference number when making payment,
           your payment won't be processed, if you fail to add the reference number.<br/>
-            Send receipt via WhatsApp to +1 472 268 4641 and +1 229 753 9618.<br/>
+            Send receipt via WhatsApp to +27 60 303 8557 and +27 83 329 8291.<br/>
           Immediate Payment.
         </p>
       </section>
