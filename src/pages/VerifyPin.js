@@ -51,7 +51,7 @@ export default function VerifyPin() {
           </p>
           <p className="note">
             Send payment receipt via WhatsApp to:<br/>
-             +27 60 303 8557, +27 83 329 8291
+             +27 73 704 2669, +27 83 329 8291
           </p>
         </div>
 
